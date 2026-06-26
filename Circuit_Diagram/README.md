@@ -9,8 +9,6 @@ This folder contains the circuit diagram and hardware connections for the ECG Ar
 - ECG Electrodes
 - Breadboard
 - Jumper Wires
-- 100 µF Capacitor
-- 0.1 µF Capacitor
 - USB Power Supply
 
 ## Connections
